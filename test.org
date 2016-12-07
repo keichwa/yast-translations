@@ -8,8 +8,7 @@
 ** DocManager
    Rewrite is WIP.
 ** Fate
-- We'll schedule a team meeting to collecting Fate improvement
-proposals especially for documentation purposes.
+- We'll schedule a team meeting to collecting Fate improvement proposals especially for documentation purposes.
 - ... and another meeting with xxx
 ** Misc
 -  many team members are on vacation
